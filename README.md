@@ -11,7 +11,7 @@
 <!--- About Section --->
 
 ## About
-I created a portfolio site as a place where I could showcase the projects I felt proud of and wanted to show off. It was built from a template and I expanded from it by adding my own themes and sections.
+I created a portfolio site as a place where I could showcase the projects I felt proud of and wanted to show off. It was built from a template and I expanded from it by adding my own themes and sections. This was my first attempt at hosting a static webpage with GitHub pages.
 
 
 ### Built With
